@@ -1,0 +1,2 @@
+C:\Users\allan\source\repos\ListaPOO_Ex7\ListaPOO\obj\Debug\ListaPOO.csproj.AssemblyReference.cache
+C:\Users\allan\source\repos\ListaPOO_Ex7\ListaPOO\obj\Debug\ListaPOO.csproj.CoreCompileInputs.cache

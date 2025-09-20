@@ -1,0 +1,7 @@
+C:\Users\allan\source\repos\Lista_POOEx10\Lista_POO\bin\Debug\Lista_POO.exe.config
+C:\Users\allan\source\repos\Lista_POOEx10\Lista_POO\bin\Debug\Lista_POO.exe
+C:\Users\allan\source\repos\Lista_POOEx10\Lista_POO\bin\Debug\Lista_POO.pdb
+C:\Users\allan\source\repos\Lista_POOEx10\Lista_POO\obj\Debug\Lista_POO.csproj.AssemblyReference.cache
+C:\Users\allan\source\repos\Lista_POOEx10\Lista_POO\obj\Debug\Lista_POO.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\Lista_POOEx10\Lista_POO\obj\Debug\Lista_POO.exe
+C:\Users\allan\source\repos\Lista_POOEx10\Lista_POO\obj\Debug\Lista_POO.pdb
